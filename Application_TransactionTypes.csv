@@ -1,0 +1,14 @@
+﻿TransactionTypeID,TransactionTypeName,LastEditedBy,ValidFrom,ValidTo
+1,Customer Invoice,1,41275,2958466
+2,Customer Credit Note,1,41275,2958466
+3,Customer Payment Received,1,41275,2958466
+4,Customer Refund,1,41275,2958466
+5,Supplier Invoice,1,41275,2958466
+6,Supplier Credit Note,1,41275,2958466
+7,Supplier Payment Issued,1,41275,2958466
+8,Supplier Refund,1,41275,2958466
+9,Stock Transfer,1,41275,2958466
+10,Stock Issue,1,41275,2958466
+11,Stock Receipt,1,41275,2958466
+12,Stock Adjustment at Stocktake,1,41275,2958466
+13,Customer Contra,9,42370.67014,2958466

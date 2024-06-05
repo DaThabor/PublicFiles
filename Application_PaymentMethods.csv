@@ -1,0 +1,5 @@
+﻿PaymentMethodID,PaymentMethodName,LastEditedBy,ValidFrom,ValidTo
+1,Cash,1,41275,2958466
+2,Check,1,41275,2958466
+3,Credit-Card,9,42370.66667,2958466
+4,EFT,1,41275,2958466

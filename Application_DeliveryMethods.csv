@@ -1,0 +1,11 @@
+﻿DeliveryMethodID,DeliveryMethodName,LastEditedBy,ValidFrom,ValidTo
+1,Post,1,41275,2958466
+2,Courier,1,41275,2958466
+3,Delivery Van,1,41275,2958466
+4,Customer Collect,1,41275,2958466
+5,Chilled Van,16,42005.66667,2958466
+6,Customer Courier to Collect,1,41275,2958466
+7,Road Freight,1,41275,2958466
+8,Air Freight,1,41275,2958466
+9,Refrigerated Road Freight,1,41275,2958466
+10,Refrigerated Air Freight,1,41275,2958466
