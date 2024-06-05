@@ -1,3 +1,4 @@
-!git clone https://github.com/DaThabor/PublicFiles
+import pandas as pd
 
-%cd PublicFiles
+cities = df = pd.read_csv('Application_Cities.csv')
+print(cities.head(5))
